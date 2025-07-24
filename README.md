@@ -63,11 +63,13 @@ A full-stack ticket management system built with the PERN stack (PostgreSQL, Exp
 1. Clone the repository (if not already done):
    ```bash
    git clone https://github.com/yourusername/ticketflow.git
-   cd ticketflow```
+   cd ticketflow
+
 2. Start all services with Docker Compose:
 
 ```bash
-docker-compose up --build```
+docker-compose up --build
+
 3. Access the services:
 
 🖥️ Frontend: http://localhost:5173
