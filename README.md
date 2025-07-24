@@ -68,8 +68,8 @@ A full-stack ticket management system built with the PERN stack (PostgreSQL, Exp
 2. Start all services with Docker Compose:
 
 ```bash
-docker-compose up --build
-
+docker-compose up --build`
+ 
 3. Access the services:
 
 🖥️ Frontend: http://localhost:5173
